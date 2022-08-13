@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # get into project folder
 
 cd graphql-apollo-api-part1
@@ -11,3 +12,7 @@ cd graphql-apollo-api-part1
 npm run dev
 
 
+=======
+# express.js-Graphql
+Graphql using expressjs
+>>>>>>> 2bbc4a9aca050df4c669cba47900496c4917da3f
